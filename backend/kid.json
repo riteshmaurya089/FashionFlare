@@ -1,0 +1,301 @@
+
+    {
+        "_id": "644552b390631aa88236430f",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220530/kGLG/6294da0bf997dd03e2470612/codez_black_typographic_print_crew-neck_t-shirt.jpg",
+        "brand": "CODEZ",
+        "category": "kid",
+        "title": "Typographic Print Crew-Neck T-shirt",
+        "discountPrice": "210",
+        "orginalPrice": "999",
+        "discount": "(79% off)",
+        "offer": "210",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "1"
+    },
+    {
+        "_id": "644552b390631aa882364310",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20210415/oOWq/607832dbf997dd7b64b2dc4d/disney__minnie_mouse_sequinned_round-neck_t-shirt.jpg",
+        "brand": "DISNEY",
+        "category": "kid",
+        "title": "Minnie Mouse Sequinned Round-Neck T-shirt",
+        "discountPrice": "135",
+        "orginalPrice": "449",
+        "discount": "(70% off)",
+        "offer": "135",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "3"
+    },
+    {
+        "_id": "644552b390631aa882364311",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20221120/BORf/637a6472aeb269659c9e631d/trampoline_multicoloured_pack_of_3_heathered_joggers.jpg",
+        "brand": "Trampoline",
+        "category": "kid",
+        "title": "Pack of 3 Heathered Joggers",
+        "discountPrice": "733",
+        "orginalPrice": "1745",
+        "discount": "(58% off)",
+        "offer": "440",
+        "genre": [
+            "shoes"
+        ],
+        "rating": "2"
+    },
+    {
+        "_id": "644552b390631aa882364312",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20210323/AFXb/6059e624aeb269a9e324ea6d/disney__team_princess_print_crew-neck_t-shirt.jpg",
+        "brand": "DISNEY",
+        "category": "kid",
+        "title": "Team Princess Print Crew-Neck T-shirt",
+        "discountPrice": "75",
+        "orginalPrice": "249",
+        "discount": "(70% off)",
+        "offer": "75",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "2"
+    },
+    {
+        "_id": "644552b390631aa882364313",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220325/YrEz/623cd5caf997dd03e22f2e78/toonyport_blue_typographic_print_t-shirt_%26_shorts_set.jpg",
+        "brand": "TOONYPORT",
+        "category": "kid",
+        "title": "Typographic Print T-shirt & Shorts Set",
+        "discountPrice": "370",
+        "orginalPrice": "739",
+        "discount": "(50% off)",
+        "offer": "222",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "2"
+    },
+    {
+        "_id": "644552b390631aa882364314",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220628/QIjo/62ba0dcdaeb26921af4a0205/campus_dark_grey_low-top_slip-on_sports_shoes.jpg",
+        "brand": "Campus",
+        "category": "kid",
+        "title": "Low-Top Slip-On Sports Shoes",
+        "discountPrice": "727",
+        "orginalPrice": "1119",
+        "discount": "(35% off)",
+        "offer": "654",
+        "genre": [
+            "shoes"
+        ],
+        "rating": "1"
+    },
+    {
+        "_id": "644552b390631aa882364315",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220628/hQ1O/62bb160caeb26921af4d3153/wotnot_blue_washed_joggers_with_drawstring_fastening.jpg",
+        "brand": "Wotnot",
+        "category": "kid",
+        "title": "Washed Joggers with Drawstring Fastening",
+        "discountPrice": "450",
+        "orginalPrice": "899",
+        "discount": "(50% off)",
+        "offer": "450",
+        "genre": [
+            "pants"
+        ],
+        "rating": "1"
+    },
+    {
+        "_id": "644552b390631aa882364316",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20210415/ckT4/607835aeaeb269a9e3926016/disney__the_little_mermaid_round-neck_t-shirt.jpg",
+        "brand": "DISNEY",
+        "category": "kid",
+        "title": "The Little Mermaid Round-Neck T-shirt",
+        "discountPrice": "135",
+        "orginalPrice": "449",
+        "discount": "(70% off)",
+        "offer": "135",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "1"
+    },
+    {
+        "_id": "644552b390631aa882364317",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220929/soqa/6335ae5aaeb269dbb3b0811a/dj_%26_c_white_printed_crew-neck_t-shirt.jpg",
+        "brand": "DJ & C",
+        "category": "kid",
+        "title": "Printed Crew-Neck T-Shirt",
+        "discountPrice": "177",
+        "orginalPrice": "249",
+        "discount": "(29% off)",
+        "offer": "174",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "4"
+    },
+    {
+        "_id": "644552b390631aa882364318",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220803/Il6I/62ea8e79aeb26921afc2cc38/campus_navy_blue_slip-on_sandals_with_velcro_closure.jpg",
+        "brand": "Campus",
+        "category": "kid",
+        "title": "Slip-On Sandals with Velcro Closure",
+        "discountPrice": "524",
+        "orginalPrice": "749",
+        "discount": "(30% off)",
+        "offer": "442",
+        "genre": [
+            "shoes"
+        ],
+        "rating": "3"
+    },
+    {
+        "_id": "644552b390631aa882364319",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220624/yOPL/62b57351f997dd03e29c6596/kb_team_spirit_grey_jogger_pants_with_zipper_pockets.jpg",
+        "brand": "KB TEAM SPIRIT",
+        "category": "kid",
+        "title": "Jogger Pants with Zipper Pockets",
+        "discountPrice": "509",
+        "orginalPrice": "599",
+        "discount": "(15% off)",
+        "offer": "479",
+        "genre": [
+            "pants"
+        ],
+        "rating": "5"
+    },
+    {
+        "_id": "644552b390631aa88236431a",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20221201/HCKX/6388ce3cf997ddfdbdb0461c/game_begins_yellow_striped_round-neck_t-shirt.jpg",
+        "brand": "GAME BEGINS",
+        "category": "kid",
+        "title": "Striped Round-Neck T-Shirt",
+        "discountPrice": "160",
+        "orginalPrice": "399",
+        "discount": "(60% off)",
+        "offer": "136",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "5"
+    },
+    {
+        "_id": "644552b390631aa88236431b",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20221120/KULo/637a6478aeb269659c9e642d/trampoline_multicolor_animal__printed_regular_fit_pyjamas.jpg",
+        "brand": "Trampoline",
+        "category": "kid",
+        "title": "Animal  Printed Regular Fit Pyjamas",
+        "discountPrice": "417",
+        "orginalPrice": "969",
+        "discount": "(57% off)",
+        "offer": "250",
+        "genre": [
+            "pants"
+        ],
+        "rating": "3"
+    },
+    {
+        "_id": "644552b390631aa88236431c",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20201216/5YLK/5fda1615aeb269d56340dd1a/kb_team_spirit_orange_numeric_print_henley_t-shirt.jpg",
+        "brand": "KB TEAM SPIRIT",
+        "category": "kid",
+        "title": "Numeric Print Henley T-shirt",
+        "discountPrice": "127",
+        "orginalPrice": "249",
+        "discount": "(49% off)",
+        "offer": "125",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "3"
+    },
+    {
+        "_id": "644552b390631aa88236431d",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20230210/GKXk/63e600acf997dde6f49cf172/trampoline_multicoloured_pack_of_5_graphic_print_crew-meck_t-shirts.jpg",
+        "brand": "Trampoline",
+        "category": "kid",
+        "title": "Pack of 5 Graphic Print Crew-Meck T-shirts",
+        "discountPrice": "639",
+        "orginalPrice": "1,419",
+        "discount": "(55% off)",
+        "offer": "383",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "4"
+    },
+    {
+        "_id": "644552b390631aa88236431e",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220110/yHZA/61dc4d4af997dd662317f209/crocs_navy_blue_bayaband_sandals_with_velcro_fastening.jpg",
+        "brand": "CROCS",
+        "category": "kid",
+        "title": "Bayaband Sandals with Velcro Fastening",
+        "discountPrice": "1572",
+        "orginalPrice": "2495",
+        "discount": "(37% off)",
+        "offer": "1,415",
+        "genre": [
+            "shoes"
+        ],
+        "rating": "5"
+    },
+    {
+        "_id": "644552b390631aa88236431f",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220628/X4fq/62bb14aef997dd03e2a4b65d/wotnot_blue_mid-wash_jeans_with_elasticated_waist.jpg",
+        "brand": "Wotnot",
+        "category": "kid",
+        "title": "Mid-Wash Jeans with Elasticated Waist",
+        "discountPrice": "450",
+        "orginalPrice": "899",
+        "discount": "(50% off)",
+        "offer": "450",
+        "genre": [
+            "jeans"
+        ],
+        "rating": "2"
+    },
+    {
+        "_id": "644552b390631aa882364320",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220921/x1Xi/632b2c9ff997dd1f8d119ec2/toonyport_red%2Cblue_graphic_shorts_%26_t-shirt_set.jpg",
+        "brand": "TOONYPORT",
+        "category": "kid",
+        "title": "Graphic Shorts & T-shirt Set",
+        "discountPrice": "370",
+        "orginalPrice": "739",
+        "discount": "(50% off)",
+        "offer": "222",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "2"
+    },
+    {
+        "_id": "644552b390631aa882364321",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20210426/4jrW/6086b755aeb269a9e3a15573/disney__daisy_duck_round-neck_t-shirt.jpg",
+        "brand": "DISNEY",
+        "category": "kid",
+        "title": "Daisy Duck Round-Neck T-shirt",
+        "discountPrice": "75",
+        "orginalPrice": "249",
+        "discount": "(70% off)",
+        "offer": "75",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "2"
+    },
+    {
+        "_id": "644552b390631aa882364322",
+        "src": "https://assets.ajio.com/medias/sys_master/root/20220921/kivP/632b32b6f997dd1f8d11c7fd/toonyport_multicoloured_pack_of_2_graphic_print_pants_%26_t-shirts_set.jpg",
+        "brand": "TOONYPORT",
+        "category": "kid",
+        "title": "Pack of 2 Graphic Print Pants & T-shirts Set",
+        "discountPrice": "587",
+        "orginalPrice": "979",
+        "discount": "(40% off)",
+        "offer": "352",
+        "genre": [
+            "tshirt"
+        ],
+        "rating": "2"
+    }
