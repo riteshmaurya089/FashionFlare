@@ -18,11 +18,14 @@ const Wishlist = () => {
     const navigate = useNavigate()
 
     const getdata = () => {
-        axios.get("https://dizzy-plum-donkey.cyclic.app/wishlist")
-            .then(((res) => setwishlist(res.data)))
+
+        axios.get("https://fashionflore.onrender.com/wishlist")
+
+            .then(((res) =>  setwishlist(res.data)))
+
     }
     const handledelete = (id) => {
-        axios.delete(`https://dizzy-plum-donkey.cyclic.app/wishlist/delete/${id}`)
+        axios.delete(`https://fashionflore.onrender.com/wishlist/delete/${id}`)
             .then((res) => setdata(res.data))
 
     }

@@ -25,7 +25,7 @@ const SingleCardPage = () => {
     let [count, setcount] = useState(0)
     const [isLargerThan800] = useMediaQuery("(min-width: 800px)");
     const getdata = () => {
-        axios.get("https://magnificent-bass-suit.cyclic.app/similar")
+        axios.get("https://fashionflore.onrender.com")
             .then(r => setData(r.data))
     }
 
@@ -35,6 +35,34 @@ const SingleCardPage = () => {
 
     const handleSizeChange = (event) => {
         setSize(event.target.value);
+    };
+
+    const addToWishlist = () => {
+        setText(!text);
+
+        if (text) {
+            fetch("https://fashionflore.onrender.com/WishList/add", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${localStorage.getItem("token")}`
+                },
+                body: JSON.stringify(product),
+            })
+                .then((res) => {
+                    // console.log("tot:", res);
+                })
+                .catch((error) => {
+                    console.error(error);
+                });
+            // toast({
+            //     title: `Product Added to Wishlist Successfully`,
+            //     position: "top",
+            //     status: 'success',
+            //     duration: 3000,
+            //     isClosable: true,
+            // });
+        }
     };
     const handletext = () => {
         setText(!text)
@@ -149,7 +177,7 @@ const SingleCardPage = () => {
                     <Text bg={"rgb(253,248,235)"} width={300} fontSize="10px" padding={"5px"} margin="auto">Select your size to know your estimated delivery date.</Text>
                     <Button disable={login===false} onClick={addtobag} bg={"rgb(213,162,73)"} width={300} padding={"5px"} margin="auto"> Add to Bag</Button>
                     <Text width={300} fontSize="10px" padding={"5px"} margin="auto" color={"grey"}>HANDPICKED STYLES | ASSURED QUALITY</Text>
-                    <Button bg={text ? "rgb(213,162,73)" : "red.600"} onClick={handletext} width={300} padding={"5px"} margin="auto"> {text ? "Save To WishList" : "Added To WishList"}</Button>
+                    <Button bg={text ? "rgb(213,162,73)" : "red.600"} onClick={()=>(handletext(),addToWishlist())} width={300} padding={"5px"} margin="auto"> {text ? "Save To WishList" : "Added To WishList"}</Button>
 
                 </Box>
 
