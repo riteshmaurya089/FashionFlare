@@ -56,7 +56,7 @@ const SingleCardPage = () => {
        
         if(login){
 
-            fetch("https://kind-plum-agouti-tam.cyclic.app/cart/add", {
+            fetch("https://fashionflore.onrender.com/cart/add", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

@@ -32,7 +32,7 @@ function Address() {
   const getcartdata = () => {
 
     axios
-      .get("https://kind-plum-agouti-tam.cyclic.app/cart", {
+      .get("https://fashionflore.onrender.com/cart", {
         headers: {
           Authorization: `Bearer ${localStorage.getItem("token")}`,
         },

@@ -34,7 +34,7 @@ const Cart = () => {
     const getcartdata = () => {
 
         axios
-            .get("https://kind-plum-agouti-tam.cyclic.app/cart", {
+            .get("https://fashionflore.onrender.com/cart", {
                 headers: {
                     Authorization: `Bearer ${localStorage.getItem("token")}`,
                 },
@@ -57,7 +57,7 @@ const Cart = () => {
 
     const deleteitem = (id, title) => {
 
-        axios.delete(`https://kind-plum-agouti-tam.cyclic.app/cart/delete/${id}`)
+        axios.delete(`https://fashionflore.onrender.com/cart/delete/${id}`)
 
             .then(res => getcartdata())
         toast({
@@ -99,7 +99,7 @@ const Cart = () => {
         setTimeout(() => {
             const payload = { quantity: qty };
 
-            axios.patch(`https://kind-plum-agouti-tam.cyclic.app/cart/update/${id}`, payload)
+            axios.patch(`https://fashionflore.onrender.com/cart/update/${id}`, payload)
 
                 .then((res) =>
                     getcartdata()
