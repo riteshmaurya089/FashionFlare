@@ -3,7 +3,7 @@
 
 This repo is the clone of ajio.com website,AJIO is a shopping and lifestyle brand which is the ultimate destination for the latest fashion styles that are handpicked and are available at the best price that one can find anywhere. 
 
-Deployed Link : https://frontend-ivory-tau.vercel.app/
+Deployed Link : https://fashionflore.netlify.app/
 
 ### * Tech Stack
 
@@ -17,11 +17,7 @@ Deployed Link : https://frontend-ivory-tau.vercel.app/
 
 ### * Team-Members
 
-- Shashank Bijapur
-- Shagun Sharma
-- Shreyash Birajdar
-- Vishal More
-- Supriya Sahoo
+- Ritesh Maurya
 
 You can access the  website by the deployed url 
 
