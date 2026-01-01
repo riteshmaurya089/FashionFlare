@@ -109,7 +109,7 @@ function Dashboard() {
             >
               <Image
                 w={"80%"}
-                src="https://www.canadianginsengfarm.com/wp-content/uploads/2018/03/Product-Icon.png"
+                src="https://tse3.mm.bing.net/th?id=OIP.vimRlYxVLqkgJONW7V1jEgHaHK&pid=Api&P=0"
               />
             </Box>
             <Box
